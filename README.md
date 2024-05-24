@@ -2,6 +2,8 @@
 
 Bem-vindo ao Projeto Astronauta! Este é um projeto emocionante que visa explorar as possibilidades futuras da exploração espacial, tudo isso enquanto implementamos práticas modernas de desenvolvimento web, especialmente focadas na responsividade para dispositivos móveis.
 
+<img src="https://github.com/leochg2021/Proj_Astro/blob/main/img/MkupProj_Astro.png?raw=true" width="1024" height="850">
+
 ## Sobre o Projeto
 
 Nosso objetivo é criar uma experiência online envolvente que permita aos usuários explorar o espaço sideral enquanto navegam pelo nosso site.
@@ -21,6 +23,11 @@ Nossa abordagem para garantir a responsividade inclui:
 - **Media Queries**: Implementamos media queries para aplicar estilos específicos com base nas características do dispositivo, como largura da tela e orientação. Isso nos permite otimizar a aparência e o layout para diferentes tamanhos de tela.
 
 - **Imagens Responsivas**: Utilizamos imagens responsivas que se adaptam automaticamente ao tamanho da tela do dispositivo, reduzindo o tempo de carregamento e garantindo uma experiência visualmente agradável em todas as plataformas.
+
+<img src="https://github.com/leochg2021/Proj_Astro/blob/main/img/ftdesk.png?raw=true">
+<img src="https://github.com/leochg2021/Proj_Astro/blob/main/img/ftipad.png?raw=true">
+<img src="https://github.com/leochg2021/Proj_Astro/blob/main/img/ftphon.png?raw=true">
+
 
 ## Contribuindo
 
